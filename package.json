@@ -1,9 +1,9 @@
 {
-  "name": "raganork-md",
+  "name": "Only vawulence",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Only vawulence whatsapp bot- Multi device version.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name Only vawulence"
   },
   "repository": {
     "type": "git",
